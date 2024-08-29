@@ -1,2 +1,2 @@
-# University-Practice-Project
+# Programming Fundamental Lab
 -- MARYAM IMAM
